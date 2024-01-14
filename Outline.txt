@@ -1,0 +1,8 @@
+Rancher Machines:
+1. Rancher Management Server (local - RKE2)= 1
+2. Harbor Registry (k3s single node)= 1
+3. Devsecops Cluster (rke2 - 1 master and 2 workers) = 1 (3 VMs)
+4. Workloads (rke2 single node) = 2
+
+All of them imported to Rancher Management Server.
+
